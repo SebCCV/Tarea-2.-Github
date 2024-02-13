@@ -1,5 +1,5 @@
 //corrección del código en clase 
-#include <stdlib.h>
+#include <studio.h>
 
 int main()
 {
