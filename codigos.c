@@ -4,6 +4,7 @@
 int main()
 {
   int a,b,fact=1;
+  printf("Este codigo es para calcular el factorial de algun no.\n");
   printf("Escribe el número al que le quieres obtener su factorial:\n");
   scanf("%d",&a);
   if(a<0){
