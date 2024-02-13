@@ -1,4 +1,5 @@
 //corrección del código en clase 
+//codigo que calcula el factorial de un numero
 #include <stdio.h>
 
 int main()
